@@ -1,5 +1,9 @@
-# Statistics_Assignment_2
-https://lemon-florist-vgiwh.pwskills.app/lab/tree/work/Statistics_Assignment_2.ipynb
-Probability Density/ Distribution Function,
-Types of Distribution (Discuss),
-PMF , CDF , PDF
+# Statistics_Basic_Assignment_2
+Measure of Central Tendency,
+Measure of Dispersion,
+Random Variables,
+Sets,
+Histogram & Skewness,
+Covariance & Correlation
+
+
